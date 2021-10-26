@@ -10,11 +10,11 @@
 
 <h2>Tech Stack<h2>
 <div>
-<img src="https://i.ibb.co/BNC7vs8/jslogo.png" alt="jslogo" width="50" height="50" hspace="55">
-<img src="https://i.ibb.co/685Zbq6/htmllogo.png" alt="htmllogo" width="50" height="50" hspace="55">
-<img src="https://i.ibb.co/MSWgbNW/csslogo.png" alt="csslogo" width="50" height="50" hspace="55">
-<img src="https://i.ibb.co/gwJHMfk/mysqllogo.png" alt="mysqllogo" width="100" height="50" hspace="55">
-<img src="https://i.ibb.co/QMpRVgj/vscodelogo.png" alt="vscodelogo" width="50" height="50" hspace="55">
+<img src="https://i.ibb.co/BNC7vs8/jslogo.png" alt="jslogo" width="50" height="50" hspace="45">
+<img src="https://i.ibb.co/685Zbq6/htmllogo.png" alt="htmllogo" width="50" height="50" hspace="45">
+<img src="https://i.ibb.co/MSWgbNW/csslogo.png" alt="csslogo" width="50" height="50" hspace="45">
+<img src="https://i.ibb.co/gwJHMfk/mysqllogo.png" alt="mysqllogo" width="100" height="50" hspace="45">
+<img src="https://i.ibb.co/QMpRVgj/vscodelogo.png" alt="vscodelogo" width="50" height="50" hspace="45">
 </div>
 <br>
 <h3>More is comming soon</h3>
