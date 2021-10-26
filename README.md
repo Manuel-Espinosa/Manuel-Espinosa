@@ -1,7 +1,3 @@
-<style type="text/css">
-h1 {
-  text-align = center;
-}
-</style>
-<h1>Manuel Espinosa</h1>
-<h2>A Software Engineer</h2>
+<h1>Hi! I'm Manuel Espinosa</h1>
+
+:mortar_board: &nbsp <h2>Software Engineering Student!</h2>
