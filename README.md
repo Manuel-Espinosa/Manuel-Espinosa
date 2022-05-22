@@ -16,7 +16,7 @@
  <br>
  <br>
 <img src="https://i.ibb.co/QMpRVgj/vscodelogo.png" alt="vscodelogo" width="50" height="50" hspace="45">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png?20211024200826" alt="postmanlogo" width="100" height="50" hspace="45">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png?20211024200826" alt="postmanlogo" width="130" height="60" hspace="45">
  
  <br>
  <br>
