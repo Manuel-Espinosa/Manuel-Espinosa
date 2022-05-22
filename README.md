@@ -16,6 +16,8 @@
 <img src="https://i.ibb.co/gwJHMfk/mysqllogo.png" alt="mysqllogo" width="100" height="50" hspace="45">
 <img src="https://i.ibb.co/QMpRVgj/vscodelogo.png" alt="vscodelogo" width="50" height="50" hspace="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/2300px-React.svg.png" alt="mongo logo" width="50" height="50" hspace="45">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node logo" width="50" height="50" hspace="45">
+
  
 </div>
 <br>
