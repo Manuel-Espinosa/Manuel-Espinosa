@@ -15,7 +15,7 @@
 <img src="https://i.ibb.co/MSWgbNW/csslogo.png" alt="csslogo" width="50" height="50" hspace="45">
 <img src="https://i.ibb.co/gwJHMfk/mysqllogo.png" alt="mysqllogo" width="100" height="50" hspace="45">
 <img src="https://i.ibb.co/QMpRVgj/vscodelogo.png" alt="vscodelogo" width="50" height="50" hspace="45">
-<img src="https://w7.pngwing.com/pngs/825/919/png-transparent-react-javascript-library-github-backbone-logo-symmetry-native.png" alt="mongo logo" width="50" height="50" hspace="45">
+<img src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" alt="mongo logo" width="50" height="50" hspace="45">
  
 </div>
 <br>
