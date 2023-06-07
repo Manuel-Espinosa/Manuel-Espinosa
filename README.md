@@ -4,8 +4,8 @@
 
 👨‍🎓 &nbsp; Software engineering student <br>
 🏫 &nbsp; Technological of higher studies of Chalco &nbsp; 🇲🇽<br>
-🏋️‍♂️ &nbsp; Super excited JavaScript beginner developer <br>
-📜 &nbsp; Recently certified in responsive web development by freeCodeCamp <br>
+🏋️‍♂️ &nbsp; JavaScript Algorithms and Data Structures certification by freeCodeCamp <br>
+📜 &nbsp; Legacy Responsive Web Design certification by freeCodeCamp <br>
 
 
 <h2>Tech Stack<h2>
