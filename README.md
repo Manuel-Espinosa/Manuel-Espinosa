@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, Node, Express, Docker**
 
-- 📫 How to reach me **jose_el@tesch.edu.mx**
+- 📫 How to reach me **manuespinosadev@gmail.com**
 
 - ⚡ Fun fact **I got obsessed with The Office**
 
